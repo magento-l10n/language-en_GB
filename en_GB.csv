@@ -74,6 +74,8 @@ Unrecognized,Unrecognised
 "Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customize images and price for your new products.","Based on your selections <span class=""new-products-count"" data-bind=""text:countVariations""></span>
         new products will be created. Use this step to customise images and price for your new products."
+"Write Us","Contact Us"
+"Jot us a note and we’ll get back to you as quickly as possible.","Send us a message and we’ll get back to you as quickly as possible."
 "We can't initialize the import model.","We can't initialise the import model."
 "There are no items in customer's shopping cart.","There are no items in customer's shopping basket."
 "Default Shipping Address","Default Delivery Address"
