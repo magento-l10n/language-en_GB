@@ -51,6 +51,9 @@ Authorizing,Authorising
 Authorized,Authorised
 Unrecognized,Unrecognised
 "We can't add this item to your shopping cart right now.","We can't add this item to your shopping basket right now."
+"Customize and Add to Cart","Customise and Add to Cart"
+"Your Customization","Your Customisation"
+"Customize %1","Customise %1"
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extend \Magento\Framework\Model\AbstractModel"
 "%1 doesn't extends \Magento\Catalog\Model\Layer\Filter\AbstractFilter","%1 doesn't extend \Magento\Catalog\Model\Layer\Filter\AbstractFilter"
 "Such product doesn't exist","This product doesn't exist"
